@@ -12,5 +12,24 @@ public class Sistemagestioninventarios {
     private String medicamentoActual; 
     private String clienteActual;    
     private String proveedorActual;
+
+    public void registrarMedicamento(Medicamento medicamento) {
+        
+    }
+
+    public void registrarCliente(Cliente cliente) {
+        
+    }
+
+    public void registrarProveedor(ProveedorFarmaceutico proveedor) {
+        
+    }
+
+    public void generarInformeVentas() {
+        
+    }
+ 
+ 
     
 }
+
